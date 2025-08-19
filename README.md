@@ -4,10 +4,10 @@ You can run this by installing tailwind CSS CLI
 1) npm install tailwindcss @tailwindcss/cli
 
 Create a file named input.css in src folder ->src/input.css 
-and copy this,
+and copy this,<br>
 2) @import "tailwindcss";
 
- then link the style sheet in html,
+ then link the style sheet in html,<br>
   
 3)  <link href="./output.css" rel="stylesheet">
 
