@@ -19,6 +19,6 @@ and copy this,
 
 1) "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch"
 
-  then run,
-2) npm run dev 
+  then run<br>
+2) npm run dev <br>
     here you don't need to run repeatedly
