@@ -11,11 +11,11 @@ and copy this,<br>
   
 3. <link href="./output.css" rel="stylesheet">
 
- Finally run this command in terminal,
+ Finally run this command in terminal,<br>
 4. npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-  if you don't want to run the above command everytime just copy it in package.json file in script section below error message
+ if you don't want to run the above command everytime just copy it in package.json file in script section below error message<br>
 
 1. "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch"
 
