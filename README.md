@@ -1,6 +1,6 @@
-This is a Simple JS project made using Tailwind CSS
-You can run this by installing tailwind css cli
-
+This is a Simple JS project made using Tailwind CSS.<br>
+You can run this by installing tailwind CSS CLI
+<br>Steps to Install the CLI
 1) npm install tailwindcss @tailwindcss/cli
 
 Create a file named input.css in src folder ->src/input.css 
