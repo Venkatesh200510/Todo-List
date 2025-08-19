@@ -14,7 +14,7 @@ function displayTodo(todoValue){
     todoWrapper.classList.add("todo-wrapper");
 
     todoWrapper.innerHTML=`
-    <div class="todo bg-white  text-2xl flex items-center justify-between mx-8 my-2 px-2 py-2 rounded mt-10">
+    <div class="todo bg-gradient-to-r from-amber-300 to-gray-100   text-2xl flex items-center justify-between mx-8 my-2 px-2 py-2 rounded mt-10">
                 <p>${inputTodo.value}</p>
                 <div class="actions">
                     <input type="checkbox" class="mr-4">
